@@ -1,3 +1,4 @@
+// Matthew did this...
 // TODO: Create a variable called score and give it a value between 0 and 100
 let score = 85;
 
@@ -8,6 +9,8 @@ const passingGrade = 60;
 if (score >= passingGrade) {
     console.log("Passed");
 }
+
+// Aadam did this...
 // TODO: Add an else statement for when the score is below passingGrade
 else {
     console.log("Failed");
@@ -19,6 +22,4 @@ else {
 if (score === 100) {
     console.log("Perfect Score!");
 }
-
-
-
+// 
